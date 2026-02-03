@@ -22,7 +22,7 @@ jobs:
       - name: Generate pacman graph
         uses: abozanona/pacman-contribution-graph@main
         with:
-          github_user_name: abdalrhman2023
+          github_user_name: eslamrezk14
           output_path: dist/pacman-contribution-graph.svg
 
       - name: Push pacman graph to output branch
