@@ -36,11 +36,11 @@
 
 **Skill Levels:** | Skill             | Level                  |
 |-------------------|-----------------------|
-| Power BI (DAX)    | 🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜ 90%      |
+| Power BI (DAX)     | 🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜ 90%      |
 | SQL (Complex Query)| 🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜ 90%      |
-| Python (EDA)      | 🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜ 85%      |
-| Data Modeling     | 🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜ 85%      |
-| Excel (VBA/Pivot) | 🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜ 85%      |
+| Python (EDA)       | 🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜ 85%      |
+| Data Modeling      | 🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜ 85%      |
+| Excel (VBA/Pivot)  | 🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜ 85%      |
 
 ---
 
