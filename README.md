@@ -34,8 +34,10 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-**Skill Levels:** | Skill             | Level                  |
-|-------------------|-----------------------|
+**Skill Levels:**  
+
+| Skill              | Skill                 | Level      |
+|--------------------|-----------------------|
 | Power BI (DAX)     | 🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜ 90%      |
 | SQL (Complex Query)| 🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜ 90%      |
 | Python (EDA)       | 🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜ 85%      |
@@ -76,10 +78,12 @@
   <img src="https://img.shields.io/github/stars/eslamrezk14?label=Stars&style=for-the-badge" alt="Stars"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eslamrezk14&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslamrezk14&layout=compact&theme=radical&hide_border=true" width="45%">
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eslamrezk14/eslamrezk14/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eslamrezk14/eslamrezk14/output/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/eslamrezk14/eslamrezk14/output/pacman-contribution-graph.svg">
+</picture>
+
 
 ---
 
