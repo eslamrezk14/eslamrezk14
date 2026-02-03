@@ -65,8 +65,8 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNndjdnVjdnVjdnVjdnVjdnVjdnVjdnVjdnVjdnVjdnVjdnVjJmVwP3YxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/xT0xezQGU5xCDJuCPe/giphy.gif" width="200"/>
 </p>
 
-- 🏆 **SQL Fundamentals** — ITI (Mahara Tech)
-- 🏆 **Data Analysis Summer Training** — ITI (MCIT)
+-  **SQL Fundamentals** — ITI (Mahara Tech)
+-  **Data Analysis Summer Training** — ITI (MCIT)
 
 ---
 
