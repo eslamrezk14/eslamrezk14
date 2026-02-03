@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJidWpueXpueXpueXpueXpueXpueXpueXpueXpueXpueXpueXpueXAmZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/3o7TKSjP3_I8t7N1S0/giphy.gif" width="200"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWs5MjlkZ2M0MHVnZzBnYXZ0a2Q3cG9lNGNlOGMwbXd6MXVqazk3MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ef7GqsDYDIKFa/giphy.gif" width="200"/>
 </p>
 
 - 🎓 **B.Sc. in Mathematics** — Faculty of Science, Mansoura University (2022 – Present)  
@@ -48,7 +48,7 @@
 
 ## 🚀 Featured Projects
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnYybm80bWoxbm80bWoxbm80bWoxbm80bWoxbm80bWoxbm80bWoxJmVwP3YxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/I9Xv575jQkI8MDWpT0/giphy.gif" width="200"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExamsxNDlpOHk2dTlsbDY5ZmhubjVkcDBvZDNoYjhzejN1dWE2NWtrOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEduKoCblNVAgAbYI/giphy.gif" width="200"/>
 </p>
 
 | Project                           | Domain           | Technologies           | Link         |
