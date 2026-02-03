@@ -36,7 +36,7 @@
 
 **Skill Levels:**  
 
-| Skill              | Skill                 | Level      |
+| Skill              | Level                 |     
 |--------------------|-----------------------|
 | Power BI (DAX)     | 🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜ 90%      |
 | SQL (Complex Query)| 🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜ 90%      |
